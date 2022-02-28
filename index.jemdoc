@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Yuguang Yao
+
+~~~
+{}{img_left}{biophoto.jpeg}{alt text}
+PhD,\n Computer Science and Engineering, \n Michigan State University\n
+E-mail: yaoyugua@msu.edu
+~~~
+
+== About me
+I received the B.S. degree in Automation from Tsinghua University.\n
+I am a PhD candidate under the supervision of Prof. Sijia Liu.
+
+== Research
+My research interests include 
+- Adversarial Machine Learning
+- Neural Network Pruning
+
+
+=== Recent Publications 
+. Yuguang Yao\*, Yifan Gong\*, Yize Li, Yimeng Zhang, Xiaoming Liu, Xue Lin, Sijia Liu, \"Reverse Engineering of Imperceptible Adversarial Image Perturbations\",  ICLR'22.
+. Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jinfeng Yi, Mingyi Hong, Shiyu Chang, Sijia Liu, \" How to Robustify Black-Box ML Models? A Zeroth-Order Optimization Perspective\", ICLR'22. 
+
+== Teaching
+- CSE 477 Web Application Development
+- CSE 480 Database Systems
+
