@@ -2,20 +2,19 @@
 ==Yuguang Yao
 
 ~~~
-{}{img_left}{biophoto.jpeg}{alt text}
+{}{img_left}{biophoto.jpeg}{Tony}
 PhD,\n Computer Science and Engineering, \n Michigan State University\n
 E-mail: yaoyugua@msu.edu
 ~~~
 
 == About me
-I received the B.S. degree in Automation from Tsinghua University.\n
-I am a PhD candidate under the supervision of Prof. Sijia Liu.
+I am a PhD candidate under the supervision of Prof. Sijia Liu.\n
+I received the B.S. degree in Automation from Tsinghua University in 2018.
 
 == Research
 My research interests include 
 - Adversarial Machine Learning
 - Neural Network Pruning
-
 
 === Selected Publications 
 . Yuguang Yao\*, Yifan Gong\*, Yize Li, Yimeng Zhang, Xiaoming Liu, Xue Lin, Sijia Liu, \"Reverse Engineering of Imperceptible Adversarial Image Perturbations\",  ICLR'22.
