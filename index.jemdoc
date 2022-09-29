@@ -15,8 +15,10 @@ I received the B.S. degree in Automation from Tsinghua University in 2018.
 My research interests include 
 - Adversarial Machine Learning
 - Neural Network Pruning
+- Bi-level Optimization
 
 === Selected Publications 
+. Yihua Zhang\*, Yuguang Yao\*, Parikshit Ram, Pu Zhao, Tianlong Chen, Mingyi Hong, Yanzhi Wang, Sijia Liu \"Advancing Model Pruning via Bi-level Optimization\",  NeurIPS'22.
 . Yifan Gong\*, Yuguang Yao\*, Yize Li, Yimeng Zhang, Xiaoming Liu, Xue Lin, Sijia Liu, \"Reverse Engineering of Imperceptible Adversarial Image Perturbations\",  ICLR'22.
 . Yimeng Zhang, Yuguang Yao, Jinghan Jia, Jinfeng Yi, Mingyi Hong, Shiyu Chang, Sijia Liu, \" How to Robustify Black-Box ML Models? A Zeroth-Order Optimization Perspective\", ICLR'22. 
 
@@ -24,3 +26,5 @@ My research interests include
 - CSE 477 Web Application Development
 - CSE 480 Database Systems
 
+== Service
+- ICML'22 AdvML Frontiers Workshop student chair
